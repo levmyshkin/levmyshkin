@@ -16,11 +16,11 @@ I am comfortable working alone or with an existing team of any size. I'm able to
 Please feel free to reach out if you have a project that you're interested in discussing! 📫 
 
 - Email: levmyshkin89@gmail.com
-- GitHub: github.com/levmyshkin
+- GitHub: https://github.com/levmyshkin
 - Telegram: @levmyshkin
-- Site: drupalbook.org
-- LinkedIn: linkedin.com/in/ivan-abramenko
-- Drupal.org: drupal.org/u/levmyshkin
+- Site: https://drupalbook.org
+- LinkedIn: https://linkedin.com/in/ivan-abramenko
+- Drupal.org: https://drupal.org/u/levmyshkin
 
 <!--
 **levmyshkin/levmyshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
