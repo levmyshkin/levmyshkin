@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am a professional software developer.
-- I have experience developing on a variety of Drupal 7 and Drupal 8 sites.
+- I have experience developing on a variety of Drupal 7 and Drupal 8/9 sites.
 - I've also written contributed modules on Drupal.org, and contributed to Drupal core development
 - I'm comfortable implementing contributed and custom modules in Drupal.
 - I believe in keeping things maintainable, cleanly written, and reliable.
